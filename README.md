@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Python, DSA**
 
-- 📫 How to reach me **aakankshasingh756584@gmail.com**
+- 📫 How to reach me **official.akankshasingh45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
