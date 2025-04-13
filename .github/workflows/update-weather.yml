@@ -26,7 +26,7 @@ jobs:
           desc=$(echo "$data" | jq -r '.weather[0].description')
           temp=$(echo "$data" | jq -r '.main.temp')
 
-          # Determine icon based on description
+          # Choose icon
           icon="❔"
           if [[ "$desc" == *clear* ]]; then icon="☀️"; fi
           if [[ "$desc" == *cloud* ]]; then icon="☁️"; fi
@@ -64,8 +64,11 @@ jobs:
           git config user.name "Akanksha-45"
           git config user.email "official.akankshasingh45@gmail.com"
           git add README.md
+
           if ! git diff --cached --quiet; then
             git commit -m "chore: update Bhopal weather & timestamp"
+            git pull --rebase origin main
             git push https://x-access-token:$GITHUB_TOKEN@github.com/${{ github.repository }} HEAD:main
           else
             echo "No changes to commit"
+          fi
