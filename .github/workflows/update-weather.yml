@@ -22,8 +22,10 @@ jobs:
         run: |
           data=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY,$COUNTRY&appid=$API_KEY&units=metric")
           echo "Raw response: $data"
+
           desc=$(echo "$data" | jq -r '.weather[0].description')
           temp=$(echo "$data" | jq -r '.main.temp')
+
           echo "weather=${desc^}, ${temp}°C" >> "$GITHUB_OUTPUT"
 
       - name: Rewrite README with current time
@@ -36,7 +38,8 @@ jobs:
 
           awk '/<!-- WEATHER_SECTION_START -->/ {
             print;
-            print "Weather in 🌆 **Bhopal**: '"$WEATHER"'  \n_Last updated: '"$timestamp"'_";
+            print "Weather in 🌆 **Bhopal**: '"$WEATHER"'";
+            print "_Last updated: '"$timestamp"'_";
             skip=1;
             next
           }
