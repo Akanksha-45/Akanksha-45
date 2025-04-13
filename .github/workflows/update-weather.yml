@@ -10,50 +10,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
-
-      - name: Install jq (if missing)
-        run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Fetch current weather for Bhopal
         id: weather
         run: |
-          set -e
-
           CITY="Bhopal"
           COUNTRY="IN"
-          API_KEY="${{ secrets.WEATHER_API_KEY }}"
-
-          if [ -z "$API_KEY" ]; then
-            echo "❌ WEATHER_API_KEY is not set!"
-            exit 1
-          fi
-
-          data=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=${CITY},${COUNTRY}&appid=${API_KEY}&units=metric")
-
+          data=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY,$COUNTRY&appid=${{ secrets.WEATHER_API_KEY }}&units=metric")
           echo "Raw response: $data"
-
-          # Optional: show response code and message for debugging
-          echo "Code: $(echo "$data" | jq -r '.cod')"
-          echo "Message: $(echo "$data" | jq -r '.message')"
-
-          # Check if the API returned an error
-          if echo "$data" | jq -e '.cod' | grep -qv 200; then
-            echo "❌ API returned an error."
-            exit 1
-          fi
-
           desc=$(echo "$data" | jq -r '.weather[0].description')
           temp=$(echo "$data" | jq -r '.main.temp')
-
           echo "weather=${desc^}, ${temp}°C" >> $GITHUB_OUTPUT
 
-      - name: Update README with weather and timestamp
+      - name: Rewrite README with current time
         run: |
           weather="${{ steps.weather.outputs.weather }}"
           timestamp=$(TZ="Asia/Kolkata" date +"%Y-%m-%d %H:%M %Z")
-
           echo "Using weather: $weather"
           echo "Using timestamp: $timestamp"
 
@@ -66,14 +40,14 @@ jobs:
           /<!-- WEATHER_SECTION_END -->/ {skip=0}
           !skip' README.md > temp.md && mv temp.md README.md
 
-      - name: Commit and push changes if any
+      - name: Commit & push if changed
         run: |
           git config user.name "Akanksha-45"
           git config user.email "official.akankshasingh45@gmail.com"
           git add README.md
-
           if ! git diff --cached --quiet; then
             git commit -m "chore: update Bhopal weather & timestamp"
             git push https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }} HEAD:main
           else
-            echo "✅ No changes to commit"
+            echo "No changes to commit"
+          fi
