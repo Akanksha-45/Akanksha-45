@@ -47,15 +47,17 @@ jobs:
           echo "Using weather: $WEATHER"
           echo "Using timestamp: $timestamp"
 
-          awk '/<!-- WEATHER_SECTION_START -->/ {
-            print;
-            print "Weather in 🌆 **Bhopal**: '"$WEATHER"'";
-            print "_Last updated: '"$timestamp"'_";
-            skip=1;
-            next
-          }
-          /<!-- WEATHER_SECTION_END -->/ {skip=0}
-          !skip' README.md > temp.md && mv temp.md README.md
+          awk -v w="$WEATHER" -v t="$timestamp" '
+            /<!-- WEATHER_SECTION_START -->/ {
+              print;
+              print "Weather in 🌆 **Bhopal**: " w "  ";
+              print "_Last updated: " t "_";
+              skip=1;
+              next
+            }
+            /<!-- WEATHER_SECTION_END -->/ {skip=0}
+            !skip
+          ' README.md > temp.md && mv temp.md README.md
 
       - name: Commit & push if changed
         env:
