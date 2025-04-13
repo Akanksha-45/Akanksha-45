@@ -2,7 +2,7 @@ name: ⛅ Update weather & timestamp
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
+    - cron: '*/30 * * * *'  # Every 30 minutes
   workflow_dispatch:
 
 jobs:
@@ -26,7 +26,18 @@ jobs:
           desc=$(echo "$data" | jq -r '.weather[0].description')
           temp=$(echo "$data" | jq -r '.main.temp')
 
-          echo "weather=${desc^}, ${temp}°C" >> "$GITHUB_OUTPUT"
+          # Determine icon based on description
+          icon="❔"
+          if [[ "$desc" == *clear* ]]; then icon="☀️"; fi
+          if [[ "$desc" == *cloud* ]]; then icon="☁️"; fi
+          if [[ "$desc" == *rain* ]]; then icon="🌧️"; fi
+          if [[ "$desc" == *drizzle* ]]; then icon="🌦️"; fi
+          if [[ "$desc" == *thunder* ]]; then icon="⛈️"; fi
+          if [[ "$desc" == *snow* ]]; then icon="❄️"; fi
+          if [[ "$desc" == *mist* || "$desc" == *fog* || "$desc" == *haze* ]]; then icon="🌫️"; fi
+
+          weather_output="${icon} ${desc^}, ${temp}°C"
+          echo "weather=$weather_output" >> "$GITHUB_OUTPUT"
 
       - name: Rewrite README with current time
         env:
