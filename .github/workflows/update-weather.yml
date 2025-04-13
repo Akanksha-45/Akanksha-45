@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Fetch current weather for Bhopal
+      - name: Fetch current temperature for Bhopal
         id: weather
         env:
           CITY: Bhopal
@@ -23,33 +23,26 @@ jobs:
           data=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY,$COUNTRY&appid=$API_KEY&units=metric")
           echo "Raw response: $data"
 
-          desc=$(echo "$data" | jq -r '.weather[0].description')
+          # Check for error
+          if echo "$data" | jq -e '.cod' | grep -q -v 200; then
+            echo "❌ Error: $(echo "$data" | jq -r '.message')"
+            exit 1
+          fi
+
           temp=$(echo "$data" | jq -r '.main.temp')
-
-          # Choose icon
-          icon="❔"
-          if [[ "$desc" == *clear* ]]; then icon="☀️"; fi
-          if [[ "$desc" == *cloud* ]]; then icon="☁️"; fi
-          if [[ "$desc" == *rain* ]]; then icon="🌧️"; fi
-          if [[ "$desc" == *drizzle* ]]; then icon="🌦️"; fi
-          if [[ "$desc" == *thunder* ]]; then icon="⛈️"; fi
-          if [[ "$desc" == *snow* ]]; then icon="❄️"; fi
-          if [[ "$desc" == *mist* || "$desc" == *fog* || "$desc" == *haze* ]]; then icon="🌫️"; fi
-
-          weather_output="${icon} ${desc^}, ${temp}°C"
-          echo "weather=$weather_output" >> "$GITHUB_OUTPUT"
+          echo "weather=${temp}°C" >> "$GITHUB_OUTPUT"
 
       - name: Rewrite README with current time
         env:
           WEATHER: ${{ steps.weather.outputs.weather }}
         run: |
           timestamp=$(TZ="Asia/Kolkata" date +"%Y-%m-%d %H:%M %Z")
-          echo "Using weather: $WEATHER"
+          echo "Using temperature: $WEATHER"
           echo "Using timestamp: $timestamp"
 
           awk '/<!-- WEATHER_SECTION_START -->/ {
             print;
-            print "Weather in 🌆 **Bhopal**: '"$WEATHER"'";
+            print "Temperature in 🌆 **Bhopal**: '"$WEATHER"'";
             print "_Last updated: '"$timestamp"'_";
             skip=1;
             next
@@ -66,7 +59,7 @@ jobs:
           git add README.md
 
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update Bhopal weather & timestamp"
+            git commit -m "chore: update Bhopal temperature & timestamp"
             git pull --rebase origin main
             git push https://x-access-token:$GITHUB_TOKEN@github.com/${{ github.repository }} HEAD:main
           else
