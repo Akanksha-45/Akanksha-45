@@ -2,8 +2,10 @@
 <h1 align="center" style="color:#ff7f50; font-family: 'Arial', sans-serif;">Hi 👋, I'm Akanksha Singh</h1>
 
 <!-- WEATHER_SECTION_START -->
-
+Weather in 🌆 **Bhopal**: fetching…  
+_Last updated: –_
 <!-- WEATHER_SECTION_END -->
+
 
 <h3 align="center" style="color:#4682b4; font-family: 'Arial', sans-serif;">Aspiring Bioengineer | 2nd-year Student | Exploring Coding, Research, and Problem-Solving</h3>
 
