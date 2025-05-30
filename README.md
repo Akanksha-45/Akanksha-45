@@ -9,7 +9,7 @@ _Last updated: 2025-05-30 11:11 IST_
 
 <h3 align="center" style="color:#4682b4; font-family: 'Arial', sans-serif;">Aspiring Bioengineer | 2nd-year Student | Exploring Coding, Research, and Problem-Solving</h3>
 
-<img align ="right" alt="coding" width="400" src="https://superblog.supercdn.cloud/site_cuid_clvc4016q001j13bhaleswmt1/images/devops-engineering-isolated-cartoon-vector-illustrations107173-22527-1725263862883-compressed.jpg">
+<img align ="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlacs6ZwMxuO1HEIWi-ggYitfdrD82_T23mQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha-cyber&label=Profile%20views&color=ff7f50&style=flat" alt="akanksha-cyber" /> </p>
 
