@@ -2,8 +2,8 @@
 <h1 align="center" style="color:#ff7f50; font-family: 'Arial', sans-serif;">Hi 👋, I'm Akanksha Singh</h1>
 
 <!-- WEATHER_SECTION_START -->
-Weather in 🌆 **Bhopal**: ☀️ Clear sky, 29.05°C  
-_Last updated: 2025-06-06 04:44 IST_
+Weather in 🌆 **Bhopal**: ☀️ Clear sky, 23.27°C  
+_Last updated: 2025-06-06 05:08 IST_
 <!-- WEATHER_SECTION_END -->
 
 
