@@ -13,7 +13,7 @@ _Last updated: 2025-11-12 17:57 IST_
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha-cyber&label=Profile%20views&color=ff7f50&style=flat" alt="akanksha-cyber" /> </p>
 
-- 🌱 I’m currently learning **Java, Python, DSA**
+- 🌱 I’m currently learning **Java,   Web Development , Python, DSA**
 
 - 💌 How to reach me **official.akankshasingh45@gmail.com**
 
