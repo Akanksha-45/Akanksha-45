@@ -8,7 +8,7 @@ _Last updated: 2025-12-08 18:40 IST_
 
 <h3 align="center" style="color:#4682b4; font-family: 'Arial', sans-serif;">Aspiring Bioengineer|Frontend Developer |Java | Exploring Coding, Research, and Problem-Solving</h3>
 
-<img align ="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlacs6ZwMxuO1HEIWi-ggYitfdrD82_T23mQ&s">
+<img align ="right" alt="coding" width="400" src="https://github.com/Akanksha-45/Akanksha-45/blob/main/codingg.png"  alt="akanksha-cyber">
 
 <p align="left"> <img src="C:\Users\HP\Downloads\codingg.png" alt="akanksha-cyber" /> </p>
 
