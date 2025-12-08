@@ -34,7 +34,33 @@ _Last updated: 2025-12-08 17:58 IST_
   </a>
 </p>
 
+
+
+
+
+---
+
+## 🌟 Skill Categories Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Web%20Development-ff7f50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Deployment-1abc9c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Programming-8e44ad?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Databases-3498db?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-DevOps%20(light)-2ecc71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-UI%2FUX%20Design-e91e63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Bio%2FTech%20Tools-f39c12?style=for-the-badge" />
+</p>
+
+---
+
 <h2 align="center">💻 Tech Stack</h2>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,cpp" />
+</p>
 
 ---
 
@@ -91,7 +117,7 @@ _Last updated: 2025-12-08 17:58 IST_
 
 ## ☁️ Cloud & Hosting  
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=yellow" />
 </p>
@@ -106,19 +132,20 @@ _Last updated: 2025-12-08 17:58 IST_
 
 ---
 
-
-## 🌟 Skill Categories Overview
-
+## 🧬 Bio / Tech Tools 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Web%20Development-ff7f50?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Deployment-1abc9c?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Programming-8e44ad?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Databases-3498db?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DevOps%20(Basic)-2ecc71?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-UI%2FUX%20Design-e91e63?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bio%2FTech%20Tools-f39c12?style=for-the-badge&logo=microscope&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+
+---
+
+
+
+
+
+
 
 
   
