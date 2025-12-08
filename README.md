@@ -11,7 +11,7 @@ _Last updated: 2025-12-08 17:58 IST_
 
 <img align ="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlacs6ZwMxuO1HEIWi-ggYitfdrD82_T23mQ&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha-cyber&label=Profile%20views&color=ff7f50&style=flat" alt="akanksha-cyber" /> </p>
+<p align="left"> <img src="C:\Users\HP\Downloads\codingg.png" alt="akanksha-cyber" /> </p>
 
 - 🌱 I’m currently learning **Java,   Web Development , Python, DSA**
 
@@ -103,6 +103,8 @@ _Last updated: 2025-12-08 17:58 IST_
   <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
 </p>
 
 ---
@@ -143,13 +145,76 @@ _Last updated: 2025-12-08 17:58 IST_
 
 
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <i>Here are some of the real projects I've been working on 👇</i>
+</p>
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/Akanksha-45/Akanksha" target="_blank">
+    <div style="width: 270px; display: inline-block; margin: 12px; padding: 14px; border-radius: 16px; 
+                border: 1px solid #ff7f50; background: #0f172a; text-align: left;">
+      <h3 style="color:#ffb347; margin-bottom:6px;">🌐 Portfolio Website</h3>
+      <p style="color:#e5e7eb; font-size: 13px; line-height:1.4;">
+        My personal developer portfolio built using modern UI styles and responsive layouts.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" height="20"/>
+      </p>
+    </div>
+  </a>
+
+
+  <a href="https://github.com/Akanksha-45/To-Do" target="_blank">
+    <div style="width: 270px; display: inline-block; margin: 12px; padding: 14px; border-radius: 16px; 
+                border: 1px solid #e879f9; background: #020617; text-align: left;">
+      <h3 style="color:#e879f9; margin-bottom:6px;">📝 To-Do Web App</h3>
+      <p style="color:#e5e7eb; font-size: 13px; line-height:1.4;">
+        A simple & elegant To-Do application for daily task management.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" height="20"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
+      </p>
+    </div>
+  </a>
+
+  <a href="https://github.com/Akanksha-45/UI-Intrface" target="_blank">
+    <div style="width: 270px; display: inline-block; margin: 12px; padding: 14px; border-radius: 16px; 
+                border: 1px solid #22c55e; background: #020617; text-align: left;">
+      <h3 style="color:#22c55e; margin-bottom:6px;">🎨 UI Interface Components</h3>
+      <p style="color:#e5e7eb; font-size: 13px; line-height:1.4;">
+        Custom UI screens, cards, layouts & color experiments for frontend practice.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
+      </p>
+    </div>
+  </a>
+
+ 
+ 
+
+</div>
+
+<br/>
+
+<p align="center">
+  🔗 <b>Explore more projects:</b>  
+  <a href="https://github.com/Akanksha-45" target="_blank">github.com/Akanksha-45</a>
+</p>
 
 
 
 
 
-  
-
+ 
 
 
 
