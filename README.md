@@ -10,7 +10,6 @@ _Last updated: 2025-12-12 18:40 IST_
 
 <img align ="right" alt="coding" width="400" src="https://github.com/Akanksha-45/Akanksha-45/blob/main/codingg.png"  alt="akanksha-cyber">
 
-<p align="left"> <img src="C:\Users\HP\Downloads\codingg.png" alt="akanksha-cyber" /> </p>
 
 - 🌱 I’m currently learning **Java,   Web Development , Python, DSA**
 
