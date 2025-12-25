@@ -33,9 +33,7 @@ _Last updated: 2025-12-25 19:43 IST_
   <a href="mailto:official.akankshasingh45@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://x.com/AkankshaSi23915?t=naUFIYTKba8InxXk6t49Gw&s=08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+
 </p>
 
 ---
