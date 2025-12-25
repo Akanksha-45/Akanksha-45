@@ -1,222 +1,207 @@
-<h1 align="center" style="color:#ff7f50; font-family: 'Arial', sans-serif;">Hi 👋, I'm Akanksha Singh</h1>
+<div align="center">
+
+# 👋 Hi there, I'm Akanksha Singh
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Bioengineer+%F0%9F%A7%AC;Frontend+Developer+%F0%9F%92%BB;Java+Enthusiast+%E2%98%95;Problem+Solver+%F0%9F%8E%AF;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- WEATHER_SECTION_START -->
-Weather in 🌆 **Bhopal**: ☀️ Clear sky, 17.13°C  
+🌆 **Bhopal** • ☀️ Clear sky, 17.13°C  
 _Last updated: 2025-12-25 19:19 IST_
 <!-- WEATHER_SECTION_END -->
 
+---
 
-<h3 align="center" style="color:#4682b4; font-family: 'Arial', sans-serif;">Aspiring Bioengineer|Frontend Developer |Java | Exploring Coding, Research, and Problem-Solving</h3>
+### 🌟 Exploring Coding, Research, and Problem-Solving
 
-<img align ="right" alt="coding" width="400" src="https://github.com/Akanksha-45/Akanksha-45/blob/main/codingg.png"  alt="akanksha-cyber">
+<img align="right" alt="coding" width="380" src="https://github.com/Akanksha-45/Akanksha-45/blob/main/codingg.png">
 
+🌱 Currently learning **Java, Web Development, Python, DSA**  
+💌 Reach me at **official.akankshasingh45@gmail.com**  
+🎯 Building projects that matter  
+🔭 Open to collaborations
 
-- 🌱 I’m currently learning **Java,   Web Development , Python, DSA**
+<br clear="right"/>
 
-- 💌 How to reach me **official.akankshasingh45@gmail.com**
+---
 
-<h3 align="left" style="color:#4682b4; font-family: 'Arial', sans-serif;">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akanksha-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha singh" height="30" width="40" /></a>
+## 🤝 Connect With Me
 
-
+<p align="center">
+  <a href="https://linkedin.com/in/akanksha-singh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:official.akankshasingh45@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-    alt="Email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
-
-  <a href=" https://x.com/AkankshaSi23915?t=naUFIYTKba8InxXk6t49Gw&s=08" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-    alt="Twitter" height="30" width="40" />
+  <a href="https://x.com/AkankshaSi23915?t=naUFIYTKba8InxXk6t49Gw&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
-
-
-
-
 ---
 
-## 🌟 Skill Categories Overview
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Web%20Development-ff7f50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Deployment-1abc9c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Programming-8e44ad?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Databases-3498db?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-DevOps%20(light)-2ecc71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-UI%2FUX%20Design-e91e63?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Bio%2FTech%20Tools-f39c12?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,java,python,cpp,mysql,mongodb,git,github,vscode,figma,firebase,gcp,aws,linux&perline=10" />
 </p>
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+## 🎨 Skills by Category
 
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,cpp" />
-</p>
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+</td>
+<td align="center" width="33%">
 
-## 🎨 Frontend Development  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
----
+</td>
+<td align="center" width="33%">
 
-## 🧠 Programming Languages  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-FF6F61?style=for-the-badge&logo=code&logoColor=white" />
-</p>
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 
-## ⚙️ Backend & Runtime  
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+### ☁️ Cloud & Hosting
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
----
+</td>
+<td align="center" width="33%">
 
-## 🛠️ Tools & Platforms  
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</p>
+</td>
+<td align="center" width="33%">
 
----
+### 🎨 Design & Bio Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-## 🗄️ Databases  
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## ☁️ Cloud & Hosting  
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=yellow" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
-
-## 🎨 Design & Creativity  
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
----
-
-## 🧬 Bio / Tech Tools 
-<p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
----
-
-
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <i>Here are some of the real projects I've been working on 👇</i>
-</p>
-<br/>
-
 <div align="center">
 
-  <a href="https://github.com/Akanksha-45/Akanksha" target="_blank">
-    <div style="width: 270px; display: inline-block; margin: 12px; padding: 14px; border-radius: 16px; 
-                border: 1px solid #ff7f50; background: #0f172a; text-align: left;">
-      <h3 style="color:#ffb347; margin-bottom:6px;">🌐 Portfolio Website</h3>
-      <p style="color:#e5e7eb; font-size: 13px; line-height:1.4;">
-        My personal developer portfolio built using modern UI styles and responsive layouts.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" height="20"/>
-      </p>
-    </div>
-  </a>
+<table>
+<tr>
+<td width="50%">
 
+### 🌐 [Portfolio Website](https://github.com/Akanksha-45/Akanksha)
+My personal developer portfolio with modern UI and responsive design
 
-  <a href="https://github.com/Akanksha-45/To-Do" target="_blank">
-    <div style="width: 270px; display: inline-block; margin: 12px; padding: 14px; border-radius: 16px; 
-                border: 1px solid #e879f9; background: #020617; text-align: left;">
-      <h3 style="color:#e879f9; margin-bottom:6px;">📝 To-Do Web App</h3>
-      <p style="color:#e5e7eb; font-size: 13px; line-height:1.4;">
-        A simple & elegant To-Do application for daily task management.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" height="20"/>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
-      </p>
-    </div>
-  </a>
+![HTML](https://img.shields.io/badge/HTML-F06529?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 
-  <a href="https://github.com/Akanksha-45/UI-Intrface" target="_blank">
-    <div style="width: 270px; display: inline-block; margin: 12px; padding: 14px; border-radius: 16px; 
-                border: 1px solid #22c55e; background: #020617; text-align: left;">
-      <h3 style="color:#22c55e; margin-bottom:6px;">🎨 UI Interface Components</h3>
-      <p style="color:#e5e7eb; font-size: 13px; line-height:1.4;">
-        Custom UI screens, cards, layouts & color experiments for frontend practice.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
-      </p>
-    </div>
-  </a>
+</td>
+<td width="50%">
 
- 
- 
+### 📝 [To-Do Web App](https://github.com/Akanksha-45/To-Do)
+Simple & elegant task management application
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 [UI Interface Components](https://github.com/Akanksha-45/UI-Intrface)
+Custom UI screens, cards & layouts for frontend practice
+
+![HTML](https://img.shields.io/badge/HTML-F06529?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🔗 [Explore More](https://github.com/Akanksha-45?tab=repositories)
+Check out all my repositories →
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  🔗 <b>Explore more projects:</b>  
-  <a href="https://github.com/Akanksha-45" target="_blank">github.com/Akanksha-45</a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akanksha-45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Akanksha-45&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akanksha-45&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akanksha-45&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akanksha-45&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-45&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akanksha-45&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akanksha-45&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
 
+---
 
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akanksha-45&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akanksha-45&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Akanksha-45?label=Followers&style=flat-square&color=00D9FF" alt="Followers"/>
+</p>
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/Akanksha-45">Akanksha-45</a> with 💙</i>
+</p>
+
+</div>
